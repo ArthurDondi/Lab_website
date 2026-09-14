@@ -85,3 +85,20 @@ a[href="#main-content"] {
 html {
   scroll-behavior: smooth;
 }
+
+// Underline current & alumni lab members (highlight_name: true on their author
+// profile) wherever they appear in an author list, e.g. publication citations.
+.author-highlighted,
+.author-highlighted a {
+  text-decoration: underline !important;
+  text-decoration-color: #f4b562 !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+// Publication citation entries: the default theme font runs large/narrow for
+// dense reference-list text; ease both.
+.pub-list-item {
+  font-size: 0.92rem;
+  line-height: 1.5;
+}

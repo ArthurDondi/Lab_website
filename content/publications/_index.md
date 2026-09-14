@@ -17,8 +17,12 @@ sections:
         folders:
           - publications
         featured_only: true
+      count: 200
+      sort_by: Date
+      sort_ascending: false
     design:
       view: citation
+      columns: '1'
 
   - block: collection
     id: main-contributions
@@ -34,6 +38,7 @@ sections:
       sort_ascending: false
     design:
       view: citation
+      columns: '1'
 
   - block: collection
     id: other-contributions
@@ -49,4 +54,5 @@ sections:
       sort_ascending: false
     design:
       view: citation
+      columns: '1'
 ---

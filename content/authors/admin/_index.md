@@ -20,7 +20,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Software Developer
+role: Master student
 
 # Organizations/Affiliations
 #organizations:
@@ -63,10 +63,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. -> options listed in 'content/people/index.md'
 user_groups:
-  - Members
+  - Alumni
 ---
 
 ## Get to know me

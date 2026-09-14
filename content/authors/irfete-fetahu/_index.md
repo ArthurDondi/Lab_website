@@ -5,15 +5,15 @@
 ############################################################
 
 # Display name
-title: Magdalena Rados
+title: Irfete S. Fetahu
 
 # Full Name (for SEO)
-first_name: Magdalena
-last_name: Rados
+first_name: Irfete
+last_name: Fetahu
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
-  - magdalena-rados
+  - irfete-fetahu
 
 # Is this the primary user of the site? (default false)
 superuser: false
@@ -23,11 +23,11 @@ role: PhD Student
 
 # Organizations/Affiliations
 #organizations:
-#  - name: Stanford University
+#  - name: University
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: #Insert a short bio that is displayed in the user profile at the end of a post.
+bio:
 
 interests:
 
@@ -43,20 +43,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:magdalena.rados@ccri.at'
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -67,21 +53,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Members
+  - Alumni
 ---
-
-## Get to know me
-
-**If you weren’t doing science, what would you be doing instead?**
-
-Investigative journalism.
-
-
-**What’s the most useless piece of knowledge you know but still want to share?**
-
-Bumblebees regulate nest temperature by shivering their flight muscles to generate heat or fanning their wings to cool it.
-
-
-**What piece of lab equipment best represents your personality?**
-
-A multichannel pipette, as it's doing ten things at once (almost precisely).

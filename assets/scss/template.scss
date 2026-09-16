@@ -99,6 +99,21 @@ html {
 // Publication citation entries: the default theme font runs large/narrow for
 // dense reference-list text; ease both.
 .pub-list-item {
-  font-size: 0.92rem;
+  font-size: 0.8rem;
   line-height: 1.5;
+}
+
+// The publications page uses design.columns: '1' (full-width col-12) to avoid
+// the theme's narrow default (col-lg-8, ~66% - wrapped long author lists
+// awkwardly). Full container width is too wide the other way, so cap it at a
+// middle-ground max-width instead. Scoped to just these sections so other
+// pages' collection blocks (home, news, ...) are unaffected. `.col-12` alone
+// (not `.section-heading`, which also carries `.col-12`) is the block's
+// content wrapper.
+#highlighted .col-12:not(.section-heading),
+#main-contributions .col-12:not(.section-heading),
+#other-contributions .col-12:not(.section-heading) {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }

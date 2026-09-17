@@ -1,6 +1,6 @@
 ---
 title: Metronomic topotecan impedes tumor growth ofMYCN-amplified neuroblastoma cellsin vitroandin vivoby therapy induced senescence
-authors: [sabine-taschner-mandl, Magdalena Schwarz, Johanna Blaha, Maximilian Kauer, florian-kromp, Nelli Frank, Fikret Rifatbegovic, Tamara Weiss, Ruth Ladenstein, Martin Hohenegger, Inge M. Ambros, Peter F. Ambros]
+authors: [sabine-taschner-mandl, Magdalena Schwarz, Johanna Blaha, Maximilian Kauer, florian-kromp, Nelli Frank, fikret-rifatbegovic, Tamara Weiss, Ruth Ladenstein, Martin Hohenegger, Inge M. Ambros, Peter F. Ambros]
 date: 2016-01-19
 publishDate: '2026-09-14T16:40:51Z'
 publication_types: [article-journal]

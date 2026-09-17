@@ -1,6 +1,6 @@
 ---
 title: Neuroblastoma cells undergo transcriptomic alterations upon dissemination into the bone marrow and subsequent tumor progression
-authors: [Fikret Rifatbegovic, Christian Frech, M. Reza Abbasi, sabine-taschner-mandl, Tamara Weiss, Wolfgang M. Schmidt, Iris Schmidt, Ruth Ladenstein, Inge M. Ambros, Peter F. Ambros]
+authors: [Fikret Rifatbegovic, Christian Frech, reza-abbasi, sabine-taschner-mandl, Tamara Weiss, Wolfgang M. Schmidt, Iris Schmidt, Ruth Ladenstein, Inge M. Ambros, Peter F. Ambros]
 date: 2018-01-15
 publishDate: '2026-09-14T16:40:51Z'
 publication_types: [article-journal]

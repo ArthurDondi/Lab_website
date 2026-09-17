@@ -43,6 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:eszter.soejtoery@ccri.at'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

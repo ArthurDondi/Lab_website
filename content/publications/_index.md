@@ -6,8 +6,6 @@ sections:
   - block: markdown
     content:
       title: Publications
-      text: >
-        For the complete, continuously updated list, see [Sabine Taschner-Mandl's ORCID profile](https://orcid.org/0000-0002-1439-5301).
 
   - block: collection
     id: highlighted

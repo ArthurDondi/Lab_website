@@ -70,6 +70,8 @@ user_groups:
   - Members
 ---
 
+## Background
+
 I earned my Bachelor's degree in Biology and Master's in Pharmaceutical Biotechnologies from the University of Padova (Italy). My passion for research led me to Vienna, where I spent a year at the University of Vienna conducting my Master's thesis in glycobiology. After completing my degree, I pursued another Erasmus experience at the University of Liège (Belgium), where I worked on nanoantibodies modeling for neutrophil inflammation tracking.
 
 In June 2024, I joined the Taschner-Mandl group at St. Anna Children's Cancer Research Institute as a Lab Manager and Technical Assistant, supporting research on solid tumors. My role involves assisting with experiments, developing protocols, and overseeing lab organization and management. Passionate about cancer biology and hands-on lab research, I am dedicated to applying my technical and organizational skills to advance scientific discoveries.

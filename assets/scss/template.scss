@@ -117,3 +117,22 @@ html {
   margin-left: auto;
   margin-right: auto;
 }
+
+// Justify body text throughout the site.
+p, .pub-list-item {
+  text-align: justify;
+}
+
+// Individual author/people pages (bio, "Background", "Get to know me"):
+// smaller text than the theme default, and a clean break between the
+// "Background" summary and the "Get to know me" Q&A.
+#profile-page .article-style {
+  font-size: 0.9rem;
+
+  h2 {
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e5e5e5;
+  }
+}

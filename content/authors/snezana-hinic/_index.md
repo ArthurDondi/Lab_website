@@ -70,6 +70,8 @@ user_groups:
   - Members
 ---
 
+## Background
+
 I started my education in Belgrade, where I obtained my bachelor's degree in biology at the University of Belgrade, Serbia. I was particularly interested in neuroscience, so I joined a master's program and studied molecular basis of nervous system aging at the same university. Interested in learning more about molecular biology, I enrolled into a Graduate School program at Fordham University in New York, USA. Here, I studied the biology of human papillomavirus-induced head and neck cancer and obtained my second master's degree. This is when my interest in cancer research and bioinformatic data analysis grew. I then embarked on a PhD journey at Radboud University, the Netherlands to understand hereditary cancer origin in individuals with multiple primary tumors. Now, I joined the Taschner-Mandl group where I am working on understanding the molecular landscape of osteosarcoma, the tumor microenvironment and with the final goal to improve cancer therapy.
 
 ## Get to know me

@@ -70,6 +70,8 @@ user_groups:
   - Members
 ---
 
+## Background
+
 After completing my bachelor's degree at the University of Bielefeld, curious about the underlying mechanisms of neural control I joined the Molecular Biosciences master's degree program at the University of Heidelberg with a major in Neuroscience. While doing internships in different labs, I became fascinated by the biology of pediatric neural cancers and joined the German Cancer Research Center (DKFZ) for my master's thesis. Convinced of doing science, in 2022 I became part of the Taschner-Mandl's group for my PhD. My interest is to use pluripotent stem cells to model the development of neuroblastoma and investigate the contribution of disrupted epigenetic regulation in the emergence and pathology of this sympathoadrenal embryonic tumor.
 
 ## Get to know me

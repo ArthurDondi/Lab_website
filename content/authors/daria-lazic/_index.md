@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: PhD Student
+role: Former PhD Student
 
 # Organizations/Affiliations
 #organizations:

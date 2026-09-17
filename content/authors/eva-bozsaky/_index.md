@@ -70,4 +70,6 @@ user_groups:
   - Members
 ---
 
+## Background
+
 I studied Molecular Biology and Genetics (MSc) and received my PhD in Genetics (specialization: Human Cytogenetics) at the Comenius University in Bratislava, Slovakia. I started my research career at the Cancer Research Institute of Slovak Academy of Sciences in Bratislava, working on spontaneous and radiation induced genomic instability. I joined the CCRI in 2002 and participated in neuroblastoma-related research projects. In 2012-2017 I supported the Radiobiology Group of the Christian Doppler Laboratory for Medical Radiation Research at Medical University Vienna, focusing on normal tissue radiation response in mouse models and in vitro systems. Furthermore, I contributed to establishing the Radiobiology Unit of Non-Clinical Research at MedAustron in Wiener Neustadt. Since 2018, as a member of the Tumor Biology group at CCRI, I am working on projects (VISIOMICS, PRIMAGE) generally aiming at developing tools supporting individualized diagnostics, patient stratification and/or survival prediction in neuroblastoma by integration of data from different sources and applying modern machine-learning approaches.

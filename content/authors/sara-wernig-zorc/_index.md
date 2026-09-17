@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Postdoctoral Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 #organizations:
@@ -69,6 +69,8 @@ highlight_name: true
 user_groups:
   - Members
 ---
+
+## Background
 
 I studied Biotechnology (BSc) at University of Ljubljana, Slovenia. During my bachelor studies I went on an Erasmus exchange program to University of Aberdeen, Scotland. There I became fascinated by epigenetics and bioinformatics, which lead me to switch to bioinformatics for my masters' studies. At University of Gothenburg, Sweden I obtained my master's degree (MSc) and conducted research on long non-coding RNAs and DNA (hydroxy-) methylation in cancer. I obtained my doctoral degree (Dr. rer. nat.) in Biochemistry and Bioinformatics at University of Regensburg, Germany. Currently I hold a joint postdoc position between Sabine Taschner-Mandl's and Florian Halbritter's labs. I'm working on better understanding the epigenetic regulation of gene expression in Neuroblastoma and deciphering the mechanism of spontaneous tumor regression.
 

@@ -20,7 +20,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Master student
+role: Former Master student
 
 # Organizations/Affiliations
 #organizations:

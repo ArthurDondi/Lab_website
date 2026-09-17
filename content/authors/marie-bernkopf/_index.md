@@ -70,4 +70,6 @@ user_groups:
   - Members
 ---
 
+## Background
+
 I initially worked as BMA in a diagnostic lab for cancer und human genetics in Linz, Austria but soon decided to study further in the field of molecular biology (BSc, MSc and Doctorate in Medical Science in Graz, Austria). After a 2.5 years postdoc at University of Oxford, UK, where I worked on genetic mosaicism and NIPT, I joined the Tumour Biology group at CCRI in October 2018. Here I lead the team for pediatric solid tumour diagnostics and additionally work on translational research projects to bring new techniques and approaches (e.g. liquid biopsies) into diagnostics in order to improve risk stratification and survival of little cancer patients.

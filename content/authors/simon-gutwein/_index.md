@@ -70,6 +70,8 @@ user_groups:
   - Members
 ---
 
+## Background
+
 ### About Me
 
 I am a PhD student specializing in computational biology and deep learning applications, with a focus on analyzing high-dimensional imaging data from advanced techniques like Imaging Mass Cytometry (IMC) and Fluorescence in Situ Hybridization (FISH). My work aims to address the critical challenges in biological image analysis by developing scalable, interpretable, and efficient computational frameworks. I am passionate about using machine learning to unlock new insights into cell-type heterogeneity, spatial organization, and genetic aberrations in complex tissues.

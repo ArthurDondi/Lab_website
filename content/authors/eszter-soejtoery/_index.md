@@ -56,4 +56,6 @@ user_groups:
   - Members
 ---
 
+## Background
+
 My academic journey began during my BSc in Pharmacology at the University of Edinburgh, where I took programming courses alongside my core biology curriculum. I found these classes just as engaging as my biology lectures, so this parallel interest led me to pursue an MSc in Molecular Precision Medicine at the Medical University of Vienna. During my studies I had a chance to join the CCRI for a short internship, followed by completing my thesis at the Medical University of Vienna. I had returned to the CCRI in September, 2025 as a PhD student in the Taschner-Mandl group, where I utilise computational bioinformatics approaches to characterise neuroblastoma, with the ultimate goal of developing a diagnostic panel for early discovery of relapse.

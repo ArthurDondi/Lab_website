@@ -5,11 +5,11 @@
 ############################################################
 
 # Display name
-title: Viktoria Humhal
+title: Viktoria Humhal-Zeller
 
 # Full Name (for SEO)
 first_name: Viktoria
-last_name: Humhal
+last_name: Humhal-Zeller
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
@@ -69,5 +69,7 @@ highlight_name: true
 user_groups:
   - Members
 ---
+
+## Background
 
 I studied Technical Chemistry (BSc) at the Technical University of Vienna and continued my Master's studies there, specializing in Applied Synthetic Chemistry and Chemical Biology. Fascinated by the interface between chemistry and medicine, I joined the Taschner-Mandl lab at CCRI in 2022 for my master's thesis, where I worked on establishing a multi-modal tissue preparation and imaging workflow to study spatial and temporal tumor heterogeneity in neuroblastoma. After completing my Master's, I returned to CCRI in January 2024 as a PhD student. My research focuses on the role of the tumor microenvironment in neuroblastoma metastasis, particularly within the bone marrow niche as it represents the most common metastatic site. I aim to unravel the communication dynamics between neuroblastoma cells and their microenvironment, exploring how metastatic tumor cells can reshape their surroundings to promote tumor growth and therapy resistance.

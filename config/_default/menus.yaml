@@ -16,6 +16,9 @@ main:
   - name: Publications
     url: publications
     weight: 40
+  - name: Funding
+    url: funding
+    weight: 45
 #  - name: Contact
 #    url: contact
 #    weight: 50

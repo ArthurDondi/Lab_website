@@ -5,21 +5,21 @@
 ############################################################
 
 # Display name
-title: Irfete Fetahu
+title: Polina Perepelkina
 
 # Full Name (for SEO)
-first_name: Irfete
-last_name: Fetahu
+first_name: Polina
+last_name: Perepelkina
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
-  - irfete-fetahu
+  - polina-perepelkina
 
 # Is this the primary user of the site? (default false)
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Former Postdoctoral Researcher<br>now Junior Supervisor at Medical University of Vienna, Austria
+role: Former Research Assistant<br>now PhD Student at Medical University of Vienna, Austria
 
 # Organizations/Affiliations
 #organizations:

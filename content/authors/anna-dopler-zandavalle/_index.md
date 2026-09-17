@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Postdoc
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 #organizations:

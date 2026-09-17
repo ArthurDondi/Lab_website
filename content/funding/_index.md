@@ -13,7 +13,7 @@ sections:
             <img src="/uploads/funder-european-commission.png" style="max-width: 100%; height: auto;" alt="European Commission" />
           </div>
           <div style="flex: 2;">
-            <p><a href="https://cordis.europa.eu/project/id/101137028"><strong>A SIOPEN pragmatic clinical trial to MOnitor NeuroblastomA relapse with LIquid biopsy Sensitive Analysis (MONALISA)</strong></a></p>
+            <p><a href="https://www.siopen.org/siopen-clinical-trials-1/monalisa"><strong>A SIOPEN pragmatic clinical trial to MOnitor NeuroblastomA relapse with LIquid biopsy Sensitive Analysis (MONALISA)</strong></a></p>
             <p style="font-size: 85%;">CCRI responsible Principal Investigator and Coordinator: Sabine Taschner-Mandl<br>Grant from the European Union, HORIZON Work Programme, ID &ndash; 101137028<br>Duration: 01/01/2024 &ndash; 31/12/2028</p>
           </div>
         </div>

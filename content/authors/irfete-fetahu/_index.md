@@ -5,7 +5,7 @@
 ############################################################
 
 # Display name
-title: Irfete S. Fetahu
+title: Irfete Fetahu
 
 # Full Name (for SEO)
 first_name: Irfete
@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Former Postdoc
+role: Former Postdoc<br>now Junior Supervisor at Medical University of Vienna, Austria
 
 # Organizations/Affiliations
 #organizations:

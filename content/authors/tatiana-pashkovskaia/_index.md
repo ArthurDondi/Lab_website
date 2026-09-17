@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Former PhD Student
+role: Former PhD Student<br>now Bioinformatician at Centre for Genomic Regulation, Barcelona, Spain
 
 # Organizations/Affiliations
 #organizations:

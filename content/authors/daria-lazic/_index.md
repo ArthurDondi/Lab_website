@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Former PhD Student
+role: Former PhD Student<br>now Postdoctoral Researcher at EMBL, Heidelberg, Germany
 
 # Organizations/Affiliations
 #organizations:

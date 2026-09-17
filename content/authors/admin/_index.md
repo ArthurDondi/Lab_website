@@ -20,7 +20,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Former Master student
+role: Former Master student<br>now PhD student at Medical University of Vienna, Austria
 
 # Organizations/Affiliations
 #organizations:

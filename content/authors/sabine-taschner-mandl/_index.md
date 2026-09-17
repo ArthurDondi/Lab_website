@@ -72,3 +72,9 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
+
+My main areas of research cover the topics of (1) Drivers of high-risk neuroblastoma, (2) Tumor heterogeneity and microenvironment and (3) Development of new diagnostics and prognostic markers for precision oncology.
+
+I am currently supervising an interdisciplinary group of students, postdocs and lab technicians. The lab has a strong focus on cancer genomics, single-cell technologies, including bioimaging, and molecular drivers of high-risk neuroblastoma. My lab has led and contributed to research on the development and mechanistic understanding of new therapeutic approaches for pediatric neuroblastoma and osteosarcoma, the genetic and phenotypic characterization of metastasizing tumor cells in high-risk neuroblastoma leading to the discovery of parallel clonal evolution at the metastatic site as compared to the primary tumor and devised new computational approaches for multi-plex image analysis. To enable accurate segmentation of complex microscopy images we have developed a new data augmentation strategy and proposed a deep learning-based approach. Further, the lab is leading research that contributed to a better molecular understanding of high-risk and benign forms of neuroblastoma.
+
+I am coordinating and contributing to several national and international projects and recently received a prestigious research grant by the Viennese Science and Technology Fund (WWTF). International activities entail membership in the European Society of Pediatric Oncology Neuroblastoma (SIOPEN) Executive committee and co-chair of the SIOPEN Biology Group, INRG Genomics and ITCC Solid Tumors.

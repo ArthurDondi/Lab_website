@@ -70,6 +70,8 @@ user_groups:
   - Members
 ---
 
+Driven by my interest in disease mechanisms, I pursued a Bachelor's Degree in Biology at the University of Vienna before continuing with a Master's in Molecular Biology, majoring in Molecular Medicine. During my studies, I became particularly fascinated by cancer biology and the intricate role of the immune system in disease progression. Toward the end of my Master's, I spent nine months at the Memorial Sloan Kettering Cancer Center in New York, USA, where I developed a strong interest in the role of T cells within the tumor microenvironment. Motivated to further explore this field, I joined the Taschner-Mandl group as a PhD student in 2024. My research focuses on understanding the role of T cells in the tumor microenvironment of osteosarcoma, with the ultimate goal of advancing the development of innovative cellular therapies.
+
 ## Get to know me
 
 **Which scientific mystery would you love to see solved in your lifetime?**

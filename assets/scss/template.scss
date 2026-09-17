@@ -123,6 +123,15 @@ p, .pub-list-item {
   text-align: justify;
 }
 
+// ...but not section titles' subtitle line (e.g. "First or last authorship
+// by a group member" under "Main Contributions"): it's short, centered
+// text, not a prose paragraph, and a bare `p` selector above matches it
+// directly - which wins over the centering it would otherwise inherit
+// from its `.text-center` ancestor.
+.section-heading p {
+  text-align: center;
+}
+
 // Individual author/people pages (bio, "Background", "Get to know me"):
 // smaller text than the theme default, and a clean break between the
 // "Background" summary and the "Get to know me" Q&A.

@@ -5,21 +5,21 @@
 ############################################################
 
 # Display name
-title: Polina Perepelkina
+title: Donya Esmaeiligoudarzi
 
 # Full Name (for SEO)
-first_name: Polina
-last_name: Perepelkina
+first_name: Donya
+last_name: Esmaeiligoudarzi
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
-  - polina-perepelkina
+  - donya-esmaeiligoudarzi
 
 # Is this the primary user of the site? (default false)
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Former PhD Student<br>now PhD Student at Medical University of Vienna, Austria
+role: Former Master Student<br>now Lab Scientist at Myllia Biotechnology, Vienna, Austria
 
 # Organizations/Affiliations
 #organizations:

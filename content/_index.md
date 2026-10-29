@@ -29,6 +29,17 @@ sections:
           link:
             text: "▼"
             url: "#main-content"
+        - title:
+          content:
+          align: center
+          background:
+            image:
+              filename: group_photo_2026.jpg
+            position: center
+            color: '#313066'
+          link:
+            text: "▼"
+            url: "#main-content"
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

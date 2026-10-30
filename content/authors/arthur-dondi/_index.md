@@ -58,3 +58,7 @@ highlight_name: true
 user_groups:
   - Members
 ---
+
+## Background
+
+I studied Biotechnology (Engineering) at the European School of Biotechnology of Strasbourg (ESBS), France, alongside an MSc in Data Science at the University of Strasbourg. During my Master’s thesis at New England Biolabs, I investigated biases introduced by NGS library preparation using Illumina and PacBio sequencing, transitioning from a mixed wet- and dry-lab role to a fully computational one. I then joined Novartis as postgraduate/bioinformatician, where I developed NGS workflows and trained experimental colleagues in their use. Feeling that my learning journey was not over, I pursued a PhD in the Computational Biology group of Prof. Beerenwinkel at ETH Zürich, exploring the potential of long-read single-cell RNA sequencing for biomarker discovery in ovarian cancer. I now joined the Taschner-Mandl group as a bioinformatician, supporting diverse projects aimed at better characterizing neuroblastoma and its microenvironment.

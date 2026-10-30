@@ -58,3 +58,7 @@ highlight_name: true
 user_groups:
   - Members
 ---
+
+## Background
+
+I began my scientific career with a bachelor’s degree in biomedical science at the University of Applied Sciences in Vienna. Driven by a fascination with how the immune system fights disease and how therapies can enhance these responses, I pursued a master’s degree in molecular pharmacology at Vrije Universiteit Amsterdam. During my PhD at the Netherlands Cancer Institute, I studied how cancer cells hijack our own protein translation machinery to evade our immune system. Today, as part of the Taschner-Mandl Group, I investigate tumor–immune interactions in the bone marrow of children with neuroblastoma, aiming to understand why some patients do not respond to current therapies.

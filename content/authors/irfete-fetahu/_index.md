@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Former Postdoctoral Researcher<br>now Junior Supervisor at Medical University of Vienna, Austria
+role: Former Postdoctoral Researcher
 
 # Organizations/Affiliations
 #organizations:
